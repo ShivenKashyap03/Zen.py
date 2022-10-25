@@ -151,6 +151,8 @@ class Main:
                             _stderr = self._disfont.render("No Solution!", 1, (255, 0, 0))
                             self._display.blit(_stderr, (0, 550))
                             pygame.display.flip()
+                            
+                            pygame.time.delay(2000)
 
                         self.end = time.time()
                         print("Time Elapsed since algorithm start: %f seconds" % (self.end - self.start))
