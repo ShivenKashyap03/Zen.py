@@ -36,3 +36,8 @@ The algorithm steps a bit away from a traditional approach to solving the sudoku
 ![image](https://user-images.githubusercontent.com/112420208/197784503-4aa17525-eed0-406a-a4f9-a08ac571900b.png)
 
 ![image](https://user-images.githubusercontent.com/112420208/197783181-2ceffce5-e3b6-4a05-94d2-45f4572366d3.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/112420208/197832474-27fd63c5-6dd5-41f3-8ef2-a2d3a67cef5b.png)
