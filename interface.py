@@ -1,5 +1,5 @@
 import pygame, threading, time
-from backtracking_text import *
+from Algo import *
 
 pygame.init()
 
